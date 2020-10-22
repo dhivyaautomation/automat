@@ -1,0 +1,8 @@
+POM Naveen model:
+
+FW --> step by step design
+decide on the structure, dependencies and start building step by step
+
+Best practice:
+src/main/java- put util  files, libs, pages 
+scr/test/java- put only the tests
