@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="94220" started-at="2020-10-19T13:26:40 IST" finished-at="2020-10-19T13:28:14 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="44019" started-at="2020-10-19T13:26:40 IST" finished-at="2020-10-19T13:27:24 IST">
+      <class name="Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest1">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest1@6e6c3152]" name="beforeMethod" is-config="true" duration-ms="43891" started-at="2020-10-19T13:26:40 IST" finished-at="2020-10-19T13:27:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emulator]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[127.0.0.1:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest1@6e6c3152]" name="f" duration-ms="10" started-at="2020-10-19T13:27:24 IST" finished-at="2020-10-19T13:27:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest1@6e6c3152]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-19T13:27:24 IST" finished-at="2020-10-19T13:27:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="50155" started-at="2020-10-19T13:27:24 IST" finished-at="2020-10-19T13:28:14 IST">
+      <class name="Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2@d44fc21]" name="beforeMethod" is-config="true" duration-ms="50139" started-at="2020-10-19T13:27:24 IST" finished-at="2020-10-19T13:28:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[device]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[127.0.0.1:4723/wd/hub]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2@d44fc21]" name="f" duration-ms="4" started-at="2020-10-19T13:28:14 IST" finished-at="2020-10-19T13:28:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2@d44fc21]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-19T13:28:14 IST" finished-at="2020-10-19T13:28:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

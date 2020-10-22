@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="2" name="Test2(failed)" parallel="methods">
+    <parameter name="platformVersion_" value="4.4.2"/>
+    <parameter name="URL_" value="127.0.0.1:4723/wd/hub"/>
+    <parameter name="deviceName_" value="device"/>
+    <classes>
+      <class name="Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2">
+        <methods>
+          <include name="f"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- Appium_Emulator_programs.src.Appium_Emulator_programs.src.Android.NewTest2 -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->
